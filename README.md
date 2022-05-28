@@ -1,1 +1,1 @@
-# Django DRF Beginner Course
+# DRF Beginner Course
